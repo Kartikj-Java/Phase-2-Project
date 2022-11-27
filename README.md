@@ -7,6 +7,6 @@ Go to “\src\main\webapp\META-INF\context.xml” file.
 
 Please edit the database properties such as username, password and driverClassName to be suit to your database administration tool.
 
-Now run login.jsp file in eclipse by using tocat server.
+Now run login.jsp file in eclipse by using tomcat server.
 
 Use admin for both username and password.
